@@ -1,0 +1,5 @@
+a = input("Input a:")
+b = input("Input b:")
+a= int(a)
+b= int(b)
+print(f"{a}+{b}={a+b}")
